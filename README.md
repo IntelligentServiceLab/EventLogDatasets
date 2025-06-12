@@ -5,7 +5,6 @@
 ### training_log_1/3/8
 - **File**: training_log_1.xes training_log_3.xes training_log_8.xes
 - **Describe**: These 3 datasets are human-trained simulation logs for the 2016 Process Discovery Competition (PDC 2016). Each trace consists of two values, the name of the process model activity referenced by the event and the identifier of the case to which the event belongs.
-
 ### Production
 - **File**: Production.xes
 - **Describe**: This dataset includes process data from production processes, and each track includes data for cases, activities, resources, timestamps, and more data fields.
