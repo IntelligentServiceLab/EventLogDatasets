@@ -9,7 +9,7 @@
 - **file**: Production.xes
 - **description**: This dataset includes process data from production processes, and each track includes data for cases, activities, resources, timestamps, and more data fields.
 ### BPIC_2012_A/O/W
-- **file**: BPIC_2012_A.xes BPIC_2012_O.xes BPIC_2012_W.xes
+- **file**: BPIC_2012_A.xes, BPIC_2012_O.xes, BPIC_2012_W.xes
 - **description**: These 3 dataset are derived from the personal loan application process of a financial institution in the Netherlands. The process represented in the event log is the application process of a personal loan or overdraft in a global financing organization. Each trace descriptions the process of applying for a personal loan for different customers.
 ### Hospital
 - **file**: Hospital.xes
