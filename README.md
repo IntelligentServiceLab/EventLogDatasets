@@ -6,22 +6,22 @@
 - **File**: training_log_1.xes training_log_3.xes training_log_8.xes
 - **Describe**: These 3 datasets are human-trained simulation logs for the 2016 Process Discovery Competition (PDC 2016). Each trace consists of two values, the name of the process model activity referenced by the event and the identifier of the case to which the event belongs.
 
-- ### Production
+### Production
 - **File**: Production.xes
 - **Describe**: This dataset includes process data from production processes, and each track includes data for cases, activities, resources, timestamps, and more data fields.
-- ### BPIC_2012_A/O/W
+### BPIC_2012_A/O/W
 - **File**: BPIC_2012_A.xes BPIC_2012_O.xes BPIC_2012_W.xes
 - **Describe**: These 3 dataset are derived from the personal loan application process of a financial institution in the Netherlands. The process represented in the event log is the application process of a personal loan or overdraft in a global financing organization. Each trace describes the process of applying for a personal loan for different customers.
-- ### Hospital
+### Hospital
 - **File**: Hospital.xes
 - **Describe**: Real life log of a Dutch academic hospital, originally intended for use in the first Business Process Intelligence Contest (BPIC 2011)
-- ### Request For Payment
+### Request For Payment
 - **File**: RequestForPayment.xes
 - **Describe**: This dataset contains the event related to Requests for Payment (should not be travel related): 6,886 cases, 36,796 events. Technically, they should not be linked to travels, but sometimes they can be (this is an unwanted deviation) Parent item: BPI Challenge 2020 The dataset contains events pertaining to two years of travel expense claims. In 2017, events were collected for two departments, in 2018 for the entire university. The various permits and declaration documents (domestic and international declarations, pre-paid travel costs and requests for payment) all follow a similar process flow. After submission by the employee, the request is sent for approval to the travel administration. If approved, the request is then forwarded to the budget owner and after that to the supervisor. If the budget owner and supervisor are the same person, then only one of these steps is taken. In some cases, the director also needs to approve the request.The process finished with either the trip taking place or a payment being requested and payed. On a high level, we distinguish two types of trips, namely domestic and international. For domestic trips, no prior permission is needed, i.e. an employee can undertake these trips and ask for reimbursement of the costs afterwards. For international trips, permission is needed from the supervisor. This permission is obtained by filing a travel-permit and this travel permit should be approved before making any arrangements. To get the costs for a travel reimbursed, a claim is filed. This can be done as soon as costs are actually payed (for example for flights or conference registration fees), or within two months after the trip (for example hotel and food costs which are usually payed on the spot).
-- ### Helpdesk
+### Helpdesk
 - **File**: Helpdesk.xes
 - **Describe**: The event log dataset is derived from the ticket management of a certain Italian company.
-- ### Road Traffic Fine
+### Road Traffic Fine
 - **File**: Road_Traffic_Fine_Management_Process.xes
 - **Describe**: Real-life event log of an information system managing road traffic fines.
 
